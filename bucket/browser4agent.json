@@ -1,12 +1,12 @@
 {
-  "version": "0.4.1",
+  "version": "0.5.0",
   "description": "MCP server that reads browser tab content and controls the browser",
   "homepage": "https://github.com/mantou132/browser4agent",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/mantou132/browser4agent/releases/download/v0.4.1/browser4agent-x86_64-pc-windows-msvc.zip",
-      "hash": "2c21792eb6729667d940f874120098d0754dd3fdedc2aa7c434ecbd64518afcd"
+      "url": "https://github.com/mantou132/browser4agent/releases/download/v0.5.0/browser4agent-x86_64-pc-windows-msvc.zip",
+      "hash": "2d3f914120264b1833eb4da1b11a014621692cfdaa4a46950cc0eded5192ab59"
     }
   },
   "bin": "browser4agent.exe",
