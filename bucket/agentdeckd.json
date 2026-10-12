@@ -1,12 +1,12 @@
 {
-  "version": "0.6.0",
+  "version": "0.7.0",
   "description": "Local agent daemon and session manager for AgentDeck",
   "homepage": "https://github.com/mantou132/AgentDeck",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/mantou132/AgentDeck/releases/download/v0.6.0/agentdeckd-x86_64-pc-windows-msvc.zip",
-      "hash": "2750ae3ee8e3331956b547aa4ab2f5c35a0538f587119972addbb78f1cbe3c14"
+      "url": "https://github.com/mantou132/AgentDeck/releases/download/v0.7.0/agentdeckd-x86_64-pc-windows-msvc.zip",
+      "hash": "e67074aee0d6998b198f09168ff179064166bc3c4cf37dd41aba744b31b9cd86"
     }
   },
   "bin": "agentdeckd.exe",
